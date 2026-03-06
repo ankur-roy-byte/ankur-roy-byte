@@ -1,1 +1,1 @@
-- 🔭 I’m currently working on ... Angular And Spring Boot
+ I’m currently working on React, Angular and Spring Boot.
