@@ -1,1 +1,1 @@
- I’m currently working on React, Angular and Spring Boot.
+Software engineer specializing in scalable event‑driven architectures — creator of Eventify, a Kafka‑powered real‑time streaming platform built with Spring Boot, React & Angular — turning complex workflows into seamless solutions.
